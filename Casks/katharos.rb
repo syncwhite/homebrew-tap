@@ -1,6 +1,6 @@
 cask "katharos" do
-  version "1.0.0"
-  sha256 "cc39fb5449552f96240e79b848a046170bc89a6a14d1b06a3b28e95628f35b1b"
+  version "1.0.1"
+  sha256 "26fb0141538e4a1dc3a79187fb2c4397f8f20654e58eb69fcf2b3af1e7f24326"
 
   url "https://downloads.syncwhite.com/katharos/Katharos-#{version}.dmg"
   name "Katharos"
